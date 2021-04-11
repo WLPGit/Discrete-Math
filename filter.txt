@@ -1,0 +1,165 @@
+Albania:Montenegro
+Albania:Kosovo
+Albania:North Macedonia
+Albania:Greece
+Andorra:Spain
+Andorra:Monaco
+Andorra:Netherlands
+Austria:Czech Republic
+Austria:Germany
+Austria:Hungary
+Austria:Italy
+Austria:Liechtenstein
+Austria:Slovakia
+Austria:Slovenia
+Austria:Switzerland
+Belarus:Latvia
+Belarus:Lithuania
+Belarus:Poland
+Belarus:Russia
+Belarus:Ukraine
+Belgium:France
+Belgium:Germany
+Belgium:Luxembourg
+Belgium:Netherlands
+Bulgaria:Romania
+Bulgaria:Serbia
+Bulgaria:North Macedonia
+Bulgaria:Greece
+Bulgaria:Turkey
+Croatia:Serbia
+Croatia:Slovenia
+Croatia:Hungary
+Croatia:Montenegro
+Cypruse:None
+Czech:Republic Germany
+Czech:Republic Austria
+Czech:Republic Slovakia
+Czech:Republic Poland
+Denmark:Germany
+Estonia:Finland
+Estonia:Sweden
+Estonia:Latvia
+Estonia:Russia
+Finland:Sweden
+Finland:Russia
+Finland:Norway
+France:Belgium
+France:Luxembourg
+France:Germany
+France:Switzerland
+France:Italy
+France:Monaco
+France:Spain
+France:Andorra
+Germany:Denmark
+Germany:Poland
+Germany:Czech Republic
+Germany:Switzerland
+Germany:Austria
+Germany:France
+Germany:Belgium
+Germany:Luxembourg
+Germany:Netherlands
+Greece:Turkey
+Greece:North Macedonia
+Greece:Bulgaria
+Greece:Albania
+Hungary:Ukraine
+Hungary:Slovakia
+Hungary:Austria
+Hungary:Slovenia
+Hungary:Croatia
+Hungary:Serbia
+Hungary:Romania
+Iceland:None
+Ireland:United Kingdom
+Italy:Slovenia
+Italy:Austria
+Italy:Switzerland
+Kosovo:Serbia
+Kosovo:North Macedonia
+Kosovo:Albania
+Latvia:Lithuania
+Latvia:Belarus
+Latvia:Russia
+Latvia:Estonia
+Liechtenstein:Switzerland
+Liechtenstein:Austria
+Lithuania:Poland
+Lithuania:Belarus
+Lithuania:Latvia
+Luxembourg:Germany
+Luxembourg:Belgium
+Luxembourg:France
+North:Macedonia Greece
+North:Macedonia Albania
+North:Macedonia Bulgaria
+North:Macedonia Serbia
+Malta:None
+Moldova:Ukraine
+Moldova:Romania
+Monaco:France
+Montenegro:Serbia
+Montenegro:Albania
+Netherlands:Germany
+Netherlands:Belgium
+Norway:Sweden
+Norway:Finland
+Norway:Russia
+Poland:Germany
+Poland:Czech Republic
+Poland:Slovakia
+Poland:Ukraine
+Poland:Belarus
+Poland:Lithuania
+Poland:Russia
+Portugal:Spain
+Romania:Bulgaria
+Romania:Serbia
+Romania:Hungary
+Romania:Ukraine
+Romania:Moldova
+Russia:Norway
+Russia:Finland
+Russia:Estonia
+Russia:Latvia
+Russia:Lithuania
+Russia:Poland
+Russia:Belarus
+Russia:Ukraine
+San:Marino Italy
+Serbia:Croatia
+Serbia:Romania
+Serbia:Bulgaria
+Serbia:Montenegro
+Serbia:Hungary
+Serbia:North Macedonia
+Slovakia:Ukraine
+Slovakia:Hungary
+Slovakia:Austria
+Slovakia:Czech Republic
+Slovakia:Poland
+Slovenia:Hungary
+Slovenia:Croatia
+Slovenia:Austria
+Slovenia:Italy
+Spain:France
+Spain:Portugal
+Sweden:Norway
+Sweden:Finland
+Switzerland:Italy
+Switzerland:Austria
+Switzerland:Germany
+Switzerland:France
+Turkey:Bulgaria
+Turkey:Greece
+Ukraine:Moldova
+Ukraine:Romania
+Ukraine:Hungary
+Ukraine:Slovakia
+Ukraine:Poland
+Ukraine:Belarus
+Ukraine:Russia
+United:Kingdom Ireland
+Vatican:City Italy

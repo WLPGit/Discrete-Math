@@ -1,0 +1,87 @@
+Albania:North Macedonia:163,84
+Andorra:Spain:545,81
+Austria:Czech Republic:317,90
+Bulgaria:North Macedonia:309,12
+Croatia:Montenegro:402,79
+Cypruse:None:0
+Czech Republic:Germany:397,23
+Czech Republic:Slovakia:319,07
+Czech Republic:Poland:399,43
+France:Belgium:559,44
+France:Italy:928,71
+France:Andorra:385,05
+Germany:Denmark:501,45
+Germany:Austria:506,53
+Germany:France:872,08
+Germany:Belgium:426,83
+Greece:North Macedonia:297,28
+Greece:Bulgaria:490,82
+Greece:Albania:280,12
+Hungary:Austria:505,19
+Hungary:Croatia:402,42
+Iceland:None:0
+Ireland:United Kingdom:406,96
+Italy:Austria:501,91
+Kosovo:Serbia:502,08
+Kosovo:North Macedonia:189,49
+Kosovo:Albania:84,25
+Latvia:Belarus:484,07
+Latvia:Estonia:230,06
+Liechtenstein:Switzerland:116,50
+Liechtenstein:Austria:287,39
+Lithuania:Belarus:373,89
+Lithuania:Latvia:186,60
+Luxembourg:Germany:362,27
+Luxembourg:Belgium:162,50
+Luxembourg:France:519,87
+North Macedonia:Serbia:365,74
+Malta:None:0
+Monaco:France:495,85
+Montenegro:Albania:204,26
+Netherlands:Germany:336,51
+Netherlands:Belgium:187,89
+Norway:Finland:835,25
+Poland:Germany:655,87
+Poland:Belarus:552,52
+Poland:Lithuania:462,05
+Romania:Bulgaria:371,18
+Romania:Hungary:398,45
+Romania:Moldova:306,88
+Russia:Norway:4461,56
+Russia:Finland:3667,99
+Russia:Estonia:3956,25
+Russia:Latvia:4133,70
+Russia:Lithuania:4290,73
+Russia:Poland:4738,84
+Russia:Belarus:4260,34
+San Marino:Italy:126,61
+Serbia:Croatia:391,89
+Serbia:Romania:377,89
+Serbia:Bulgaria:453,03
+Serbia:Montenegro:249,71
+Serbia:Hungary:245,12
+Slovakia:Hungary:189,05
+Slovakia:Austria:482,02
+Slovakia:Poland:372,34
+Slovenia:Hungary:395,69
+Slovenia:Croatia:109,09
+Slovenia:Austria:188,32
+Slovenia:Italy:400,17
+Spain:France:826,02
+Spain:Portugal:354,23
+Sweden:Norway:260,95
+Sweden:Finland:597,22
+Switzerland:Italy:598,64
+Switzerland:Austria:403,73
+Switzerland:Germany:531,81
+Switzerland:France:473,45
+Turkey:Bulgaria:915,24
+Turkey:Greece:1122,44
+Ukraine:Moldova:319,60
+Ukraine:Romania:622,36
+Ukraine:Hungary:919,05
+Ukraine:Slovakia:914,64
+Ukraine:Poland:910,60
+Ukraine:Belarus:525,34
+Ukraine:Russia:4343,35
+Vatican City:Italy:108,06
